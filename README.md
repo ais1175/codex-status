@@ -1,4 +1,4 @@
-[[# codex-status](https://status.discordsolutions.net/
+[[# codex-status](https://status.discordsolutions.net/)
 
 
 # CodeX Server Info Dashboard
