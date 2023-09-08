@@ -164,3 +164,24 @@ The Server Info Dashboard is a web application that provides real-time informati
 - Built with HTML, CSS, JavaScript, and PHP.
 - Utilizes AJAX for real-time updates.
 - Inspired by the need for a simple server information dashboard for game servers.
+
+
+| Step | Description |
+| --- | --- |
+| **1** | **Download and Extract the Files** |
+|      | - Download the 5M-CodeX Status Panel files to your computer. |
+|      | - Extract the contents of the downloaded ZIP file to a directory accessible by your web server. If you are using XAMPP, place it in the `htdocs` folder. |
+| **2** | **Edit the Configuration** |
+|      | - Open the `config.php` file in a text editor. |
+|      | - Modify the configuration variables according to your preferences. You can change colors, links, and other settings to customize the panel's appearance and behavior. |
+| **3** | **Set Up a Web Server Environment** |
+|      | - Ensure you have a web server environment like XAMPP or Apache installed. |
+|      | - Start your web server (e.g., Apache) and make sure it's running. |
+| **4** | **Access the Status Panel** |
+|      | - Open your web browser and enter the URL to access the Status Panel. For local setups, it might be something like `http://localhost/your-status-panel-directory`. For remote servers, use the appropriate URL. |
+| **5** | **Customize Further (Optional)** |
+|      | - You can further customize the Status Panel by modifying the HTML and CSS in the project files as needed. |
+| **6** | **Enjoy Your Status Panel!** |
+|      | - Your 5M-CodeX Status Panel is now set up and ready to display server status information according to your configuration. |
+
+
