@@ -1,0 +1,33 @@
+.ping-green { color: green; }
+.ping-yellow { color: orange; }
+.ping-red { color: red; }
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+main {
+    margin-top: 3rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    margin: 1rem 0;
+}
+
+.player-card {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: solid black 2px;
+    border-radius: 15px;
+}
