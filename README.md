@@ -1,5 +1,5 @@
-[[# codex-status](https://status.discordsolutions.net/)
 
+![Untitled (960 × 540 px) (7)](https://github.com/5M-CodeX/codex-status/assets/112611821/0970672c-a198-4309-84bd-7c15a1142a65)
 
 # CodeX Server Info Dashboard
 
